@@ -8,7 +8,9 @@ Oyunun başlama Ekranı Aşağıdaki gibidir.
 ![startGameSrn](https://github.com/r7tk/SecretVault/assets/6598877/88f4af0f-93f7-4f75-9ea6-d10f8737b74a)
 
 ## ScreenShot -1  (bkz : Kod Bloğu : 65 )
-Bu kısımda Kullanıcı eğer yanlış değerler girerse ekrana uyarı çıktısı yazdırıp kullanıcıyı tekrardan
-loop içine alarak doğru değerleri atamasını beklemekteyiz .
+  Bu kısımda Kullanıcı eğer yanlış değerler girerse ekrana uyarı çıktısı yazdırıp kullanıcıyı tekrardan
+loop içine alarak doğru değerleri atamasını beklemekteyiz . Kullanıcıyı gireceği değeri Min Değer ataması 
+ise sütun ve satır sayısının çarpımının 4 olacak şekilde ayarlandı.
 
-![0error](https://github.com/r7tk/SecretVault/assets/6598877/e6e3a142-797c-49f5-816a-998e26f1fe67)
+![0error](https://github.com/r7tk/SecretVault/assets/6598877/2a821fe5-a7f9-44a4-abad-75aa43f11c9e)
+
