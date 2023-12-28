@@ -14,3 +14,10 @@ ise sütun ve satır sayısının çarpımının 4 olacak şekilde ayarlandı.
 
 ![0error](https://github.com/r7tk/SecretVault/assets/6598877/2a821fe5-a7f9-44a4-abad-75aa43f11c9e)
 
+## ScreenShot -2  (bkz : Kod Bloğu : 273 )
+
+![revealed](https://github.com/r7tk/SecretVault/assets/6598877/751cfe4f-d256-41a9-9efa-f5761242bb20)
+
+  Bu Kısımda Kullanıcıya girdiği değer sonrası oluşturulan harita ile beraber rastgele yerleştirilmiş mayınları 
+harita kısmında gösteriyoruz .
+
