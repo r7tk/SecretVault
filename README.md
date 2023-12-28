@@ -1,6 +1,8 @@
 # MİNESWEEP OYUNU PROJESİ
 
-Java Console 2-D arayüzü ile oynayabilen Mayın Tarlası oyunu.
+Java Console 2-D arayüzü ile oynayabilen Mayın Tarlası oyunu. Oyunda Kulanıcıdan alınan değişkenler ile 
+Mayın Tarlasının Sütununu Satırlarını belirleyip Oluşan yeni Oyun Tahtasında Mayınlı olan hücrelerden kaçınarak 
+oyunu tamamlamasıdır.
 
 ## Ekran Görüntüleri
 Oyunun başlama Ekranı Aşağıdaki gibidir.
