@@ -31,5 +31,16 @@ Açılan kısım boşluk ile karışmaması için Kırmızı + ile işaretlendi 
   
 ![mineField](https://github.com/r7tk/SecretVault/assets/6598877/e7aab9ed-2bdb-469c-ba4e-72d95bf41a79)
 
-## ScreenShot -4 
+## ScreenShot -4 (bkz : Kod Bloğu : 253 )
+  Boş olan hücrelerin tamamı seçilince eşitlik sağlanıyor. Çıktı olarak Kazandınız 
 
+![WinFinish](https://github.com/r7tk/SecretVault/assets/6598877/97335bfb-5e9b-46af-9fb8-95170e78524f)
+
+## ScreenShot -5 
+
+!!! UYARI YÜKSEK SES UYARI !!! (bkz : Kod Bloğu : 162 )
+
+  Eğer Hücre satır ve sütun eşit ise (*) oyunu kaybetmiş oluyorsunuz . Ascii sanatı ile yapılmış
+BOOM çıktısı ve pixeboom.wav ses dosyası çıkıyor .
+
+![LossFinish](https://github.com/r7tk/SecretVault/assets/6598877/217443c9-f09d-428b-a59c-db3958712ac4)
