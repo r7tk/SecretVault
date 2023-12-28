@@ -36,9 +36,9 @@ Açılan kısım boşluk ile karışmaması için Kırmızı + ile işaretlendi 
 
 ![WinFinish](https://github.com/r7tk/SecretVault/assets/6598877/97335bfb-5e9b-46af-9fb8-95170e78524f)
 
-## ScreenShot -5 
+## ScreenShot -5 (bkz : Kod Bloğu : 162 )
 
-!!! UYARI YÜKSEK SES UYARI !!! (bkz : Kod Bloğu : 162 )
+            ### !!! UYARI YÜKSEK SES UYARI !!! 
 
   Eğer Hücre satır ve sütun eşit ise (*) oyunu kaybetmiş oluyorsunuz . Ascii sanatı ile yapılmış
 BOOM çıktısı ve pixeboom.wav ses dosyası çıkıyor .
