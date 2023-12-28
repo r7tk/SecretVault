@@ -12,12 +12,24 @@ Oyunun başlama Ekranı Aşağıdaki gibidir.
 loop içine alarak doğru değerleri atamasını beklemekteyiz . Kullanıcıyı gireceği değeri Min Değer ataması 
 ise sütun ve satır sayısının çarpımının 4 olacak şekilde ayarlandı.
 
+
 ![0error](https://github.com/r7tk/SecretVault/assets/6598877/2a821fe5-a7f9-44a4-abad-75aa43f11c9e)
 
 ## ScreenShot -2  (bkz : Kod Bloğu : 273 )
 
+  Bu Kısımda Kullanıcıya girdiği değer sonrası oluşturulan harita ile beraber rastgele yerleştirilmiş mayınları 
+harita kısmında gösteriyoruz . Her zaman Haritada yerleştirilen Mayın miktarı 4 te 1 'i kadardır.
+
 ![revealed](https://github.com/r7tk/SecretVault/assets/6598877/751cfe4f-d256-41a9-9efa-f5761242bb20)
 
-  Bu Kısımda Kullanıcıya girdiği değer sonrası oluşturulan harita ile beraber rastgele yerleştirilmiş mayınları 
-harita kısmında gösteriyoruz .
+## ScreenShot -3 (bkz : Kod Bloğu : 92 )
+
+  Açtığımız Kısımlarde Etrafında Mayın varsa açılan yerin içine kaç mayın varsa Değeri giriyor 
+Örnek ( Satır 12 Sütun 1 ) Eğer etrafında büyük bir boşluk varsa tarama sonucunda mayınlara denk gelene kadar açıyor.
+Açılan kısım boşluk ile karışmaması için Kırmızı + ile işaretlendi . 
+  Switch-Case ile beraber Mayın Sayılarını Renklendirerek Farkındalık kazandırıldı.
+  
+![mineField](https://github.com/r7tk/SecretVault/assets/6598877/e7aab9ed-2bdb-469c-ba4e-72d95bf41a79)
+
+## ScreenShot -4 
 
