@@ -38,7 +38,7 @@ Açılan kısım boşluk ile karışmaması için Kırmızı + ile işaretlendi 
 
 ## ScreenShot -5 (bkz : Kod Bloğu : 162 )
 
-            ### !!! UYARI YÜKSEK SES UYARI !!! 
+            # !!! UYARI YÜKSEK SES UYARI !!! 
 
   Eğer Hücre satır ve sütun eşit ise (*) oyunu kaybetmiş oluyorsunuz . Ascii sanatı ile yapılmış
 BOOM çıktısı ve pixeboom.wav ses dosyası çıkıyor .
